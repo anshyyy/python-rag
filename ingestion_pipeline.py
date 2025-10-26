@@ -79,12 +79,5 @@ def main():
     vector_store = create_vector_store(split_docs)
 
 
-
-
-
-
-
-
-
 if __name__ == "__main__":
     main()
