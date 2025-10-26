@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Database and vector store
+db/vector_store/
+chroma.sqlite3
+.env
+db
+venv
